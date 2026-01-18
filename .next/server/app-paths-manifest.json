@@ -1,3 +1,12 @@
 {
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/account/page": "app/account/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/flowers/page": "app/flowers/page.js",
+  "/jewelry/page": "app/jewelry/page.js",
+  "/occasions/page": "app/occasions/page.js",
+  "/page": "app/page.js",
+  "/products/[id]/page": "app/products/[id]/page.js"
 }
