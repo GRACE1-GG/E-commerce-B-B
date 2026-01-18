@@ -11,7 +11,7 @@ const reviews = [
     location: 'Homabay Town',
     rating: 5,
     comment: 'Amazing service! The roses were fresh and beautiful. Delivered exactly on time for my anniversary.',
-    image: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=60&h=60&fit=crop&crop=face',
+    image: 'https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop',
     date: '2 weeks ago'
   },
   {
@@ -20,7 +20,7 @@ const reviews = [
     location: 'Rachuonyo',
     rating: 5,
     comment: 'Bought a gold necklace for my wife. Quality is excellent and the price was fair. Highly recommend!',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=60&h=60&fit=crop&crop=face',
+    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop',
     date: '1 month ago'
   },
   {
@@ -29,7 +29,7 @@ const reviews = [
     location: 'Ndhiwa',
     rating: 5,
     comment: 'Perfect wedding flowers! The team understood exactly what I wanted. Everything was beautiful.',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=60&h=60&fit=crop&crop=face',
+    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop',
     date: '3 weeks ago'
   }
 ]
